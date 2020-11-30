@@ -1,0 +1,9 @@
+<address>
+  {% for contact in site.data.contact %}
+  <label for="{{ contact.label | replace: ' ', '-' }}">{{ contact.label }}</label>
+  <span id="{{ contact.label | replace: ' ', '-' }}">
+    <a href="{{ contact.link }}">{{ contact.visible }}</a>
+  </span>
+  <br>
+  {% endfor %}
+</address>

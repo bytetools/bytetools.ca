@@ -1,0 +1,44 @@
+$default-text-color: #444;
+$default-background-color: #fefefe;
+$link-color: #47a;
+$link-visited-color: #a42462;
+
+body {
+  font-size: 1.25em;
+  color: $default-text-color;
+  background-color: $default-background-color;
+  font-family: -apple-system,helvetica,arial,sans-serif;
+}
+
+#wrapper {
+  width: 70%;
+  margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $default-text-color;
+}
+
+a {
+  color: $link-color;
+}
+
+a:visited {
+  color: $link-visited-color;
+}
+
+hr {
+  border: 0;
+  border-bottom: 1px solid #999;
+}
+
+.gridish-2 {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+footer {
+  padding-top: 26px;
+  margin-bottom: 100px;
+}
+

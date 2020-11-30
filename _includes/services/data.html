@@ -1,0 +1,23 @@
+<h2>Data Services</h2>
+
+<p>
+We offer three tiers of data services.
+Whether you have a small business and need to backup your critical information
+or you need a multiple terabyte full backup once a week,
+we have a plan for you.
+</p>
+
+<div class="gridish-2">
+{% for service in site.data.dataservices %}
+<div class="product">
+<h3>{{ service.name }}</h3>
+<span>From {{ service.price }}</span>
+  <ul>
+    {% for feature in service.features %}
+      <li>{{ feature }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endfor %}
+</div>
+

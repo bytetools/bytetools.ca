@@ -1,0 +1,10 @@
+{% include name_logo.html %}
+<nav>
+  <ul>
+  {% for item in site.data.nav %}
+  <li>
+    <a href="{{ item.link }}">{{ item.name }}</a>
+  </li>
+  {% endfor %}
+  </ul>
+</nav>

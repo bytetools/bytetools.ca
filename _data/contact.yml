@@ -1,0 +1,6 @@
+- label: "Email"
+  visible: "info@bytetools.ca"
+  link: "mailto:info@bytetools.ca"
+- label: "Phone"
+  visible: "+1 (403) 771-4754"
+  link: "tel:14037714754"

@@ -1,0 +1,12 @@
+- name: "Open-Source & Free Software"
+  paragraphs:
+    - "Any software built and hosted entirely in line with either the <a href=\"https://www.gnu.org/philosophy/free-sw.html.en\">GNU</a> or the <a href=\"https://opensource.org/docs/osd\">OSI</a> guidelines will receive a 15% discount."
+- name: "Small Businesses"
+  paragraphs:
+    - "This is assessed on a case-by-case basis, and it usually caries a modest 15% discount."
+- name: "NHCA Members"
+  paragraphs:
+    - "Member of the <a href=\"https://nhca.ca\">NHCA (Northern Hills Community Association)</a> are eligible for a 10% discount."
+- name: "Community Websites & Services"
+  paragraphs:
+    - "Anything which broadly comes under the umbrella of community services: community gardens, book clubs and church groups are eligible for a 10% discount."

@@ -1,0 +1,127 @@
+$default-text-color: #444;
+$default-background-color: #fefefe;
+$link-color: #47a;
+$link-visited-color: #a42462;
+
+body {
+  line-height: 1.5em;
+  color: $default-text-color;
+  background-color: $default-background-color;
+  font-family: -apple-system,sans-serif;
+}
+
+#wrapper {
+  width: 75%;
+  margin: auto;
+}
+
+a {
+  color: $link-color;
+}
+
+a:visited {
+  color: $link-visited-color;
+}
+
+label {
+  width: 4em;
+  display: inline-block;
+}
+
+label::after {
+  content: ":";
+}
+
+header {
+  text-align: center;
+  .logo-wrapper {
+    margin-bottom: 32px;
+  }
+}
+
+.company-name {
+  font-size: 64px;
+  font-weight: bold;
+}
+img.logo {
+  margin-left: -25px;
+  margin-right: -10px;
+  display: inline-block;
+  width: 64px;
+}
+
+nav {
+  text-align: center;
+  ul {
+    display: inline-block;
+    list-style-type: none;
+    li {
+      display: inline-block;
+      margin: 12px 24px;
+      a,a:visited {
+        display: inline-block;
+        text-align: center;
+        font-weight: bold;
+        color: $default-text-color;
+        text-decoration: none;
+      }
+      a:hover,
+      a:focus {
+        text-decoration: underline;
+        color: black;
+      }
+    }
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $default-text-color;
+}
+
+hr {
+  border: 0;
+  border-bottom: 1px solid #999;
+}
+
+.gridish-2 {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+/* show copyright shifted up a bit */
+footer p {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+footer {
+  padding-top: 26px;
+  margin-bottom: 100px;
+}
+
+@media screen and (max-width: 1100px) {
+  nav ul{
+    text-align: left;
+    width: 100%;
+    padding: 0px;
+    li {
+      display: block;
+    }
+  }
+  .gridish-2 {
+    display: block;
+  }
+}
+
+.big-center {
+  line-height: 2em;
+  font-size: 1.5em;
+  text-align: left;
+  width: 15em;
+  margin: auto;
+}
+
+.gridish-2 .product {
+  padding: 24px;
+  border: 1px solid black;
+  margin: 12px;
+}

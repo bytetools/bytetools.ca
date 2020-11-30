@@ -1,0 +1,62 @@
+I"ù<h1 id="prices--services">Prices &amp; Services</h1>
+
+<h2>Websites</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h3&gt;DIY Website&lt;/h3&gt;
+&lt;span&gt;$20/Month&lt;/span&gt;
+&lt;ul&gt;
+  
+    &lt;li&gt;
+      &lt;details&gt;
+        &lt;summary&gt;Unlimited Pages + Blog&lt;/summary&gt;
+        &lt;p&gt;Have as many static pages as you want with unlimited blog pages included.&lt;/p&gt;
+      &lt;/details&gt;&lt;/li&gt;
+  
+    &lt;li&gt;
+      &lt;details&gt;
+        &lt;summary&gt;Content Management&lt;/summary&gt;
+        &lt;p&gt;WonderCMS installed by default. Custom installations upon request.&lt;/p&gt;
+      &lt;/details&gt;&lt;/li&gt;
+  
+    &lt;li&gt;
+      &lt;details&gt;
+        &lt;summary&gt;Use your own domain (mydomain.ca)&lt;/summary&gt;
+        &lt;p&gt;Point your A/AAAA records to our provided server. Wait up to 24 hours for the record to propagate.&lt;/p&gt;
+      &lt;/details&gt;&lt;/li&gt;
+  
+    &lt;li&gt;
+      &lt;details&gt;
+        &lt;summary&gt;Advanced Security&lt;/summary&gt;
+        &lt;p&gt;HTTPS redirection and HSTS w/ or w/o preload upon request&lt;/p&gt;
+      &lt;/details&gt;&lt;/li&gt;
+  
+    &lt;li&gt;
+      &lt;details&gt;
+        &lt;summary&gt;Automatic Updates&lt;/summary&gt;
+        &lt;p&gt;Packages upgraded once a month to the latest Debian stable releases.&lt;/p&gt;
+      &lt;/details&gt;&lt;/li&gt;
+  
+    &lt;li&gt;
+      &lt;details&gt;
+        &lt;summary&gt;Hosted in Vancouver or Toronto&lt;/summary&gt;
+        &lt;p&gt;Target a national or more local customers for the best performance.&lt;/p&gt;
+      &lt;/details&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+  
+&lt;h3&gt;Wordpress DIY Site&lt;/h3&gt;
+&lt;span&gt;$25/Month&lt;/span&gt;
+&lt;ul&gt;
+  
+    &lt;li&gt;
+      &lt;details&gt;
+        &lt;summary&gt;Extensibility&lt;/summary&gt;
+        &lt;p&gt;Use Wordpress plugins to expand your site's functionality&lt;/p&gt;
+      &lt;/details&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</code></pre></div></div>
+
+<h2></h2>
+
+:ET

@@ -1,0 +1,13 @@
+I"Ò<h1 id="contact-us">Contact Us</h1>
+
+<address>
+<label for="mail">email</label>
+<span id="mail"><a href="tait@bytetools.ca">tait@bytetools.ca</a></span>
+<br />
+<label for="tel">phone</label>
+<span id="tel"><a href="tel:14037714754">+1 (403) 771-4754</a></span>
+</address>
+
+<p>If your communications require discretion, use <a href="">our public key</a> for email, or download the mobile app <a href="https://signal.org/">Signal</a> for secure instant messaging.</p>
+
+:ET

@@ -1,0 +1,153 @@
+I"t<h1 id="services--prices">Services &amp; Prices</h1>
+
+<p>We provide different kinds of services depending on your needs.
+We have our web services to help you get your web presence started or improved.
+Our data backup services help you keep your critical corporate data safe.
+See our plans below or <a href="/contact/">contact us</a> for a custom quote.</p>
+
+<h2>Web Services</h2>
+
+<p>
+We offer a couple different types of web service.
+Whether you're a business just starting out and you need a website developed
+or you're an established empire, we have a plan for you.
+</p>
+
+<div class="gridish-2">
+
+<div class="product">
+<h3>DIY Website</h3>
+<span>From $30/Month</span>
+  <ul>
+    
+      <li>Develop your website your way with the minimal WonderCMS conetent management system.</li>
+    
+      <li>Let us handle the technical details.</li>
+    
+      <li>Automatic security updates.</li>
+    
+      <li>Support to setup and secure your site.</li>
+    
+      <li>Use your own domain (yourdomain.ca).</li>
+    
+      <li>+$15 to host in Calgary.</li>
+    
+  </ul>
+</div>
+
+<div class="product">
+<h3>Wordpress Website</h3>
+<span>From $40/Month</span>
+  <ul>
+    
+      <li>Develop your website with the Wordpress framework.</li>
+    
+      <li>Automatic security updates.</li>
+    
+      <li>Support to setup and secure your site.</li>
+    
+      <li>Use your own domain (yourdomain.ca).</li>
+    
+      <li>+$15 to host in Calgary.</li>
+    
+  </ul>
+</div>
+
+<div class="product">
+<h3>Custom Website</h3>
+<span>From $1000; $40/Month</span>
+  <ul>
+    
+      <li>Let us develop a custom service for your business's unique needs.</li>
+    
+      <li>We can even host it for you after development.</li>
+    
+      <li>Fully managed service. Nothing to do or worry about.</li>
+    
+      <li>Use your own domain or let us help you find one.</li>
+    
+      <li>Host locally in Calgary for an additional $15/Month.</li>
+    
+  </ul>
+</div>
+
+</div>
+
+<h2>Data Services</h2>
+
+<p>
+We offer three tiers of data services.
+Whether you have a small business and need to backup your critical information
+or you need a multiple terabyte full backup once a week,
+we have a plan for you.
+</p>
+
+<div class="gridish-2">
+
+<div class="product">
+<h3>Baby Backup</h3>
+<span>From &cent;50/GB/Month</span>
+  <ul>
+    
+      <li>Secure your company's most critical data.</li>
+    
+      <li>Support for secure rsync and sftp data transfer protocols.</li>
+    
+      <li>Backup at speeds up to 300Mbps.</li>
+    
+      <li>Secure yourself with an off-site backup location in Calgary.</li>
+    
+      <li>Fault tolerant drives.</li>
+    
+  </ul>
+</div>
+
+<div class="product">
+<h3>Big Backup</h3>
+<span>From $100/500GB/Month</span>
+  <ul>
+    
+      <li>A good doeal for large databases or small workstations.</li>
+    
+      <li>Support for secure rsync and sftp data transfer protocols.</li>
+    
+      <li>Backup at speeds up to 300Mbps.</li>
+    
+      <li>Secure yourself with an off-site backup location in Calgary.</li>
+    
+      <li>Fault tolerant drives.</li>
+    
+  </ul>
+</div>
+
+<div class="product">
+<h3>Bulk Backup</h3>
+<span>From $150/TB/Month</span>
+  <ul>
+    
+      <li>Secure all your company's important data down to the last detail.</li>
+    
+      <li>Support for secure rsync and sftp data transfer protocols.</li>
+    
+      <li>Backup at speeds up to 300Mbps.</li>
+    
+      <li>Secure yourself with an off-site backup location in Calgary.</li>
+    
+      <li>Fault tolerant drives.</li>
+    
+  </ul>
+</div>
+
+<div class="product">
+<h3>Beast Backup</h3>
+<span>From <a href="/contact/">Contact Us</a></span>
+  <ul>
+    
+      <li>Enterprise level backups for a big business.</li>
+    
+  </ul>
+</div>
+
+</div>
+
+:ET
