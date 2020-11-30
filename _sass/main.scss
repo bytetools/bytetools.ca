@@ -24,7 +24,6 @@ a:visited {
 }
 
 label {
-  width: 4em;
   display: inline-block;
 }
 
@@ -43,12 +42,16 @@ header {
 .logo-wrapper {
   display: inline-block;
   vertical-align: middle;
+  width: 100%;
 }
 .logo-text {
+  float: right;
   font-size: 64px;
+  line-height: 1em;
   font-weight: bold;
 }
 img.logo {
+  float: left;
   display: inline-block;
   width: 64px;
 }
@@ -79,6 +82,7 @@ nav {
 
 h1, h2, h3, h4, h5, h6 {
   color: $default-text-color;
+  line-height: 1.5em;
 }
 
 hr {
