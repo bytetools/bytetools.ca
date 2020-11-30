@@ -41,23 +41,20 @@ header {
 
 .logo-wrapper {
   display: inline-block;
-  vertical-align: middle;
-  width: 100%;
 }
 .logo-text {
-  float: right;
-  font-size: 64px;
+  font-size: 40px;
   line-height: 1em;
   font-weight: bold;
 }
 img.logo {
-  float: left;
   display: inline-block;
-  width: 64px;
+  width: 40px;
 }
 
 nav {
   text-align: center;
+  display: inline-block;
   ul {
     display: inline-block;
     list-style-type: none;
@@ -106,6 +103,12 @@ footer {
 }
 
 @media screen and (max-width: 1300px) {
+  .logo-wrapper {
+    display: block;
+  }
+  nav {
+    display: block;
+  }
   nav ul{
     text-align: left;
     width: 100%;
