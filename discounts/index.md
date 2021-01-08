@@ -4,8 +4,9 @@ layout: default
 ---
 # Discounts
 
-We offer stackable discounts to people and causes we believe in.
+We offer several discounts to people and causes we believe in.
 Here are some of the most important causes we support.
+You may only apply one discount at a time.
 
 <ul>
   {% for discount in site.data.discounts %}
