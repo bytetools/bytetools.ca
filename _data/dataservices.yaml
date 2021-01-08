@@ -9,7 +9,7 @@
 - name: "Bulk Backup"
   price: "$100/500GB/Month"
   features:
-    - "A good doeal for large databases or small workstations."
+    - "A good deal for large databases or small workstations."
     - "Support for secure rsync and sftp data transfer protocols."
     - "Backup at speeds up to 300Mbps."
     - "Secure yourself with an off-site backup location in Calgary."
