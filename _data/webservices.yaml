@@ -1,7 +1,7 @@
 - name: "DIY Website"
   price: "$30/Month"
   features:
-    - "Develop your website your way with the minimal WonderCMS conetent management system."
+    - "Develop your website your way with the minimal WonderCMS content management system."
     - "Let us handle the technical details."
     - "Automatic security updates."
     - "Support to setup and secure your site."
@@ -16,7 +16,7 @@
     - "Use your own domain (yourdomain.ca)."
     - "+$15 to host in Calgary."
 - name: "Custom Website"
-  price: "$1000; $40/Month"
+  price: "$1000; $50/Month"
   features:
     - "Let us develop a custom service for your business's unique needs."
     - "We can even host it for you after development."
