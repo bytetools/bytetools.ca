@@ -38,6 +38,17 @@ this allows us to use an free, open, platform-independent standard that can be r
 
 We offer audio description for video content of short (up to 4 minutes) to medium (5-10 minutes) lengths.
 Although this service is usually a part of another (i.e., a link to a YouTube video from a slide deck), we do independent jobs as well.
-Here is an example of audio description that we did on [the Piano Stairs in Sweden](#).
+Here is a short example of audio description that we did on the piano stairs in Sweden. Just over a minute and a half, total.
+
+### Original Video
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SByymar3bds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Described Video
+
+<video controls width="560" height="315">
+  <source src="/assets/videos/described-piano-stairs.mp4" type="video/mp4">
+  Video tag is not supported in this browser.
+</video>
 
 Please [contact us](/contact/) for a price estimate.
